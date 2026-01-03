@@ -7,7 +7,7 @@ This is an cryptocurrency exchange.
 
 ## Install
 ### Server
-* git clone [https://github.com/barryEn/barryEn-spot.git](https://github.com/barryEn/gitbitex.git)
+* git clone https://github.com/barryEn/gitbitex.git
 * Create database and make sure **BINLOG[ROW format]** enabled
 * Execute ddl.sql
 * Modify conf.json
